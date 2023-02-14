@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 find . -type d -not -name  '.' | wc -l
-=======
-find . -type d -not -name "-" | wc -l
->>>>>>> 20167a1d26fef21e3cc901f0e3221dfb2746ffb8
