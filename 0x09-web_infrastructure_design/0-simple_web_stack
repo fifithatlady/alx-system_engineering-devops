@@ -1,0 +1,31 @@
+link ## https://miro.com/welcomeonboard/S0tZNWxydmpCVmN1ajdIdG5GSzRJc000RlRVd1p2RWJJZGJMckVSUG5HNzRHSUhhQkJqczJZbk54ZGI1SXkwVnwzNDU4NzY0NTY4MjgwNTczNTAyfDI=?share_link_id=403702781603
+
+
+
+### Simplified Explanation:
+
+**Domain Name:** 
+- A domain name like www.foobar.com is the user-friendly name for a website, making it easy to remember compared to the complex IP address (e.g., 127.345.456.4).
+
+**DNS (Domain Name System):**
+- The DNS system is like a phone book for the internet, translating domain names into IP addresses. For example, www.foobar.com points to foobar.com, which, in turn, points to the IP address 8.8.8.8.
+
+**Server:**
+- A server (like 8.8.8.8) is a powerful computer storing a website's data. It serves this data to users' computers when they request it.
+
+**HTTP (Hyper Text Transfer Protocol):**
+- HTTP is the communication method that enables the transfer of webpage information between a user's browser and the web server.
+
+**Web Server:**
+- A web server sends pre-stored webpage files (like HTML, CSS, and JavaScript) to the user's browser for display.
+
+**Application Server:**
+- An application server provides additional website services, including dynamic features like data uploads and updates.
+
+**Database:**
+- A database stores and manages data, structuring it for organizations and users. It's used in conjunction with the application server to create various services.
+
+**Design Issues:**
+- **Single Point of Failure (SPOF):** If a server fails, the entire system can fail. To prevent this, redundancy with a second server is necessary.
+- **Downtime:** Maintenance or server issues can cause downtime, making the website temporarily unavailable. 
+- **Scalability:** A single server can struggle during high traffic. Adding a second server helps share the load and maintain performance.
